@@ -7,7 +7,7 @@
 
 body {
   background: #fff;
-  color: #222;
+  color: #000000;
   line-height: 1.5;
 
 }.hero {
@@ -16,6 +16,7 @@ body {
   background: url(../Midterm-/img/hero-2.png) center center / cover no-repeat;
   display: flex;
   align-items: center;
+  
   justify-content: flex-start;
   padding: 0 5%;
 }
@@ -34,7 +35,7 @@ body {
 
 .tag {
   background: #f3b44a;
-  color: #000;
+  color: rgba(120, 60, 10, 0.75);
   display: inline-block;
   font-size: 14px;
   font-weight: bold;
@@ -71,7 +72,7 @@ h1 {
 
 .btn.primary {
   background: #f3b44a;
-  color: #000;
+  color: #f8f7f7;
 }
 
 .btn.secondary {
